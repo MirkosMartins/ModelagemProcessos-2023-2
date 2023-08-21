@@ -1,0 +1,10 @@
+Considerando que o aluno eh o representante de um fabrica de software (ou o dono, se quiser),
+e o professor um cliente dessa fabrica, como voce modelaria os processos (tarefas) para entregar
+o software para o cliente?
+Quais sao as estapas necessarias?
+Como garantir que o software tenha o melhor desempenho?
+Como garantir que o software tenha a melhor qualidade ao cliente?
+Como cobrar pelo software?
+
+Entregar em um arquivo .bpm (formato do bizagi) com o seu nome
+Ex: mirkos.bpm
